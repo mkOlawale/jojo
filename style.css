@@ -333,4 +333,7 @@ footer .address h3, p{
         display: flex;
         flex-direction: column;
     }
+    .mistakes{
+        /* fuck what a mistake oh my gosh */
+    }
 }
